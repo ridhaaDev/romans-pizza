@@ -27,11 +27,25 @@ h1 {
   font-size: 20px !important;
 }
 
-.pizza-img {
+.pizza-preview-img {
   height: 200px;
   width: 200px;
 }
 
+.pizza-modal-img {
+  height: 400px;
+}
+
 .flex-container {
   display: flex !important;
+}
+
+.btn {
+  background-color: red !important;
+  color: white !important;
+}
+
+select {
+  box-shadow: none !important;
+  border-color: black !important;
 }
